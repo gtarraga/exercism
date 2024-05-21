@@ -1,8 +1,7 @@
 <div align="center">
   <h1>Exercism.go</h1>
   
-  ![Go](https://github.com/gtarraga/exercism/workflows/Go/badge.svg))
-  [![Exercism.io](https://img.shields.io/badge/exercism.io-gtarraga-orange.svg?style=for-the-badge&logo=exercism)](https://exercism.org/profiles/gtarraga)
+  ![Go](https://github.com/gtarraga/exercism/workflows/Go/badge.svg)
 </div>
 
 ## Introduction
